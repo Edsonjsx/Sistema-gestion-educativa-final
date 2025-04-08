@@ -36,7 +36,15 @@ El sistema contará con un login para administradores, quienes podrán realizar 
 
 <h2>Crear el Archivo .env con el contenido de .env.example</h2>
 
+```bash
 .Con sus respectivos nombre bd, usuario, contraseña
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=sistema_gestion_educativo
+DB_USERNAME=root
+DB_PASSWORD=6kaled159
+```
 
 ## Instalar dependencias
 
