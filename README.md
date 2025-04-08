@@ -28,6 +28,7 @@ El sistema contará con un login para administradores, quienes podrán realizar 
 <h2>Pasos para Instalar</h2>
 
 . Crear un archivo .env con sus respectivos nombre bd, usuario, contraseña
+
 . Ejecutar npm install en la terminar
 . Ejecutar composer install en la terminal
 . Ejecutar php artisan key:generate en la terminal
