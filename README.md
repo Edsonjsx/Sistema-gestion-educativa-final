@@ -46,11 +46,15 @@ composer install
 
 <h2>Instalar Dependencias JavaScript</h2>
 
-. Ejecutar npm install en la terminal
+```bash
+npm install
+```
 
 <h2>Ejecutar en la Terminal</h2>
 
-. Ejecutar php artisan key:generate en la terminal
+```bash
+php artisan key:generate
+```
 
 <h2>Pasos para Ejecutar el proyecto</h2>
 
