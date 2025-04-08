@@ -31,15 +31,21 @@ El sistema contará con un login para administradores, quienes podrán realizar 
 
 .PHP
 
-.Instalar composer: https://getcomposer.org/
+.Instalar composer: https://getcomposer.org
 
-<h2>Pasos para Instalar</h2>
+<h2>Crear el Archivo .env con el contenido de .env.example</h2>
 
-. Crear un archivo .env con sus respectivos nombre bd, usuario, contraseña
+.Con sus respectivos nombre bd, usuario, contraseña
+
+<h2>Instalar Dependencias</h2>
+
+. Ejecutar composer install en la terminal
+
+<h2>Instalar Dependencias JavaScript</h2>
 
 . Ejecutar npm install en la terminar
 
-. Ejecutar composer install en la terminal
+<h2>Ejecutar en la Terminal</h2>
 
 . Ejecutar php artisan key:generate en la terminal
 
