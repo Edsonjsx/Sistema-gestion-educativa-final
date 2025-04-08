@@ -40,7 +40,7 @@ El sistema contará con un login para administradores, quienes podrán realizar 
 
 ## Instalar Dependencias
 
-. Ejecutar Composer install en la terminal
+. Ejecutar composer install en la terminal
 
 <h2>Instalar Dependencias JavaScript</h2>
 
