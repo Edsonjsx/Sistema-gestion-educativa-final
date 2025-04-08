@@ -12,4 +12,15 @@
 - Sánchez Auccapuclla, Edgar
 
 <h2>Alcanze del proyecto</h2>
+<h3>El presente proyecto tiene como finalidad el desarrollo de una plataforma web orientada a la administración integral de una institución educativa. Esta plataforma automatizará los procesos relacionados con la gestión de:
 
+Apoderados
+
+Estudiantes
+
+Matrículas
+
+Docentes
+
+El sistema contará con un login para administradores, quienes podrán realizar operaciones de registro , actualización y eliminación (CRUD) sobre las distintas entidades mencionadas. Además, se busca facilitar la centralización y organización de la información, mejorando la eficiencia de los procesos internos de la institución.
+</h3>
