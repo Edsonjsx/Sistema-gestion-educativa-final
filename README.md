@@ -37,7 +37,7 @@ El sistema contará con un login para administradores, quienes podrán realizar 
 
 .Con sus respectivos nombre bd, usuario, contraseña
 
-<h2>Instalar Dependencias</h2>
+## Instalar Dependencias
 
 . Ejecutar composer install en la terminal
 
