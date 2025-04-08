@@ -23,4 +23,4 @@ Matrículas
 
 Docentes
 
-El sistema contará con un login para administradores, quienes podrán realizar operaciones de registro , actualización y eliminación (CRUD) sobre las distintas entidades mencionadas. Además, se busca facilitar la centralización y organización de la información, mejorando la eficiencia de los procesos internos de la institución.</h3>
+<h3>El sistema contará con un login para administradores, quienes podrán realizar operaciones de registro , actualización y eliminación (CRUD) sobre las distintas entidades mencionadas. Además, se busca facilitar la centralización y organización de la información, mejorando la eficiencia de los procesos internos de la institución.</h3>
