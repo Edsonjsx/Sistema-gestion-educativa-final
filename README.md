@@ -1,7 +1,7 @@
 # Sistema-gestion-educativa-final
  Pagina Web curso de taller de programación Laravel
 
-<h3>Diagrama de Base de datos</h3>
+<h2>Diagrama de Base de datos</h2>
 
 ![imagen alt](https://github.com/Edsonjsx/Sistema-gestion-educativa-final/blob/9a039aa9123a77891b4e1c01a71fad3e968f3034/public/imagenes/BD.png)
 
