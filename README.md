@@ -1,6 +1,6 @@
 # Sistema-gestion-educativa-final
  Pagina Web curso de taller de programación Laravel
-
+ 
 <h2>Diagrama de Base de datos</h2>
 
 ![imagen alt](https://github.com/Edsonjsx/Sistema-gestion-educativa-final/blob/9a039aa9123a77891b4e1c01a71fad3e968f3034/public/imagenes/BD.png)
@@ -54,3 +54,4 @@ El sistema contará con un login para administradores, quienes podrán realizar 
 .Ejecutar php artisan make:model [name del model]
 
 .Ejecutar php artisan make:controller [name del controller]
+
