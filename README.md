@@ -38,9 +38,10 @@ El sistema contará con un login para administradores, quienes podrán realizar 
 
 .Con sus respectivos nombre bd, usuario, contraseña
 
-## Instalar Dependencias
+## Instalar dependencias
 
-. Ejecutar composer install en la terminal
+```bash
+composer install
 
 <h2>Instalar Dependencias JavaScript</h2>
 
