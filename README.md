@@ -3,7 +3,8 @@
  
 <h2>Diagrama de Base de datos</h2>
 
-![imagen alt](https://github.com/Edsonjsx/Sistema-gestion-educativa-final/blob/9a039aa9123a77891b4e1c01a71fad3e968f3034/public/imagenes/BD.png)
+![imagen alt](https://github.com/user-attachments/assets/2f63271c-4671-4556-b4f4-d042b2bbe9bf)
+
 
 <h2>Integrantes</h2>
 
