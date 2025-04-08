@@ -36,8 +36,8 @@ El sistema contará con un login para administradores, quienes podrán realizar 
 
 <h2>Crear el Archivo .env con el contenido de .env.example</h2>
 
+Modificar sus respectivos nombre bd, usuario, contraseña
 ```bash
-.Con sus respectivos nombre bd, usuario, contraseña
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
