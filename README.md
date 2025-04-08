@@ -49,7 +49,7 @@ El sistema contará con un login para administradores, quienes podrán realizar 
 
 .Ejecutar npm run dev en la terminal
 
-<h2>Comando creación para Model y Controller</h2>
+<h2>Comando de creación para Model y Controller en la Terminal</h2>
 
 .Ejecutar php artisan make:model [name del model]
 
