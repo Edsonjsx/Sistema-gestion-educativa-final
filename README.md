@@ -39,8 +39,7 @@ El sistema contará con un login para administradores, quienes podrán realizar 
 
 ## Instalar Dependencias
 
-'''bash
-composer install
+.composer install
 
 . Ejecutar composer install en la terminal
 
