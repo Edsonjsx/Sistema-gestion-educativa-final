@@ -42,6 +42,7 @@ El sistema contará con un login para administradores, quienes podrán realizar 
 
 ```bash
 composer install
+```
 
 <h2>Instalar Dependencias JavaScript</h2>
 
