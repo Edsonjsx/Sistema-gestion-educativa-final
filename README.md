@@ -57,6 +57,7 @@ php artisan key:generate
 ```
 
 <h2>Pasos para Ejecutar el proyecto</h2>
+
 ```bash
 php artisan serve
 npm run dev
