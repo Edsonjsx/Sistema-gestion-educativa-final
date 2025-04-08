@@ -48,3 +48,9 @@ El sistema contará con un login para administradores, quienes podrán realizar 
 .Ejecutar php artisan serve en la terminal
 
 .Ejecutar npm run dev en la terminal
+
+<h2>Comando creación para Model y Controller</h2>
+
+.Ejecutar php artisan make:model [name del model]
+
+.Ejecutar php artisan make:controller [name del controller]
