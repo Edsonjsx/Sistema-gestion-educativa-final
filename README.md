@@ -57,10 +57,10 @@ php artisan key:generate
 ```
 
 <h2>Pasos para Ejecutar el proyecto</h2>
-
-.Ejecutar php artisan serve en la terminal
-
-.Ejecutar npm run dev en la terminal
+```bash
+php artisan serve
+npm run dev
+```
 
 <h2>Comando de creación para Model y Controller en la Terminal</h2>
 
