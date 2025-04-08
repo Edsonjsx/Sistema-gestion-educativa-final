@@ -13,7 +13,7 @@
 
 <h2>Alcanze del proyecto</h2>
 
-<h3>El presente proyecto tiene como finalidad el desarrollo de una plataforma web orientada a la administración integral de una institución educativa. Esta plataforma automatizará los procesos relacionados con la gestión de:</h3>
+El presente proyecto tiene como finalidad el desarrollo de una plataforma web orientada a la administración integral de una institución educativa. Esta plataforma automatizará los procesos relacionados con la gestión de:
 
 -Apoderados
 
